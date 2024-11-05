@@ -35,6 +35,7 @@ class ChatSpace:
             main_frame, textvariable=self.channel_var, values=["General", "HR", "Management", "Tech"], state="readonly", width=10
         )
         self.channel_dropdown.grid(row=0, column=1, sticky="w")
+        self.channel_dropdown.bind("<<ComboboxSelected>>", self.update_chat_history)
 
         # Message area
         self.message_area = tk.Text(main_frame, wrap='word', state='disabled', bg="#ffffff", fg="#333333", font=("Segoe UI", 10))
@@ -51,9 +52,21 @@ class ChatSpace:
         self.send_button.grid(row=2, column=2, padx=5, pady=10, sticky="e")
 
     def display_message(self, sender, content, channel):
-        """Display a message in the chat area with proper formatting."""
+        """Display a message in the specified channel and update the UI if currently viewed."""
+        self.channels[channel].append({'sender': sender, 'content': content})
+        if self.channel_var.get() == channel:  # Only update the chat area if we're in the active channel
+            self.message_area.configure(state='normal')
+            self.message_area.insert('end', f"[{channel}] {sender}: {content}\n")
+            self.message_area.see('end')
+            self.message_area.configure(state='disabled')
+
+    def update_chat_history(self, event=None):
+        """Update the chat area to show the history of the selected channel."""
+        selected_channel = self.channel_var.get()
         self.message_area.configure(state='normal')
-        self.message_area.insert('end', f"[{channel}] {sender}: {content}\n", "message")
+        self.message_area.delete(1.0, 'end')  # Clear current messages
+        for message in self.channels[selected_channel]:  # Display each message in the selected channel
+            self.message_area.insert('end', f"[{selected_channel}] {message['sender']}: {message['content']}\n")
         self.message_area.see('end')
         self.message_area.configure(state='disabled')
 
@@ -63,10 +76,6 @@ class ChatSpace:
         self.channels[channel].append(message)
         self.display_message(sender, content, channel)
 
-    def get_messages(self, channel):
-        """Retrieve all messages from a specific channel."""
-        return self.channels[channel]
-
     def send_user_message(self):
         """Send the user's message to the current channel."""
         content = self.entry_field.get().strip()
@@ -74,7 +83,7 @@ class ChatSpace:
             current_channel = self.channel_var.get()
             self.send_message(current_channel, "@AnthonySnider", content)
             self.entry_field.delete(0, 'end')
-        
+
     def run_gui(self):
         """Run the Tkinter mainloop."""
         self.root.mainloop()
