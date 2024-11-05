@@ -240,3 +240,1104 @@
 2024-11-05 17:02:05,157 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
 2024-11-05 17:02:35,172 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
 2024-11-05 17:02:43,956 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:46,444 - agents.base_agent - INFO - Agent Operations_Agent2 started in channel Tech
+2024-11-05 17:19:46,444 - agents.base_agent - INFO - Agent Manager_Agent started in channel Management
+2024-11-05 17:19:46,454 - agents.base_agent - INFO - Agent HR_Agent started in channel HR
+2024-11-05 17:19:46,456 - agents.base_agent - INFO - Agent Operations_Agent1 started in channel General
+2024-11-05 17:19:47,367 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:47,367 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:47,368 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:47,368 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:47,961 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:48,297 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:48,353 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:48,377 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,172 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,220 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,618 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,713 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,764 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,805 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,850 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:50,850 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:52,312 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:52,575 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:53,005 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:53,193 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:53,299 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:53,993 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:54,107 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:55,361 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:55,362 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:19:55,434 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:55,585 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:56,552 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:56,629 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:56,754 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:57,038 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:57,672 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:59,000 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:59,050 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:59,205 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:59,434 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:59,459 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:59,603 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:19:59,875 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:20:01,136 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:20:01,186 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:20:01,728 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:20:01,868 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:20:02,566 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:20:02,566 - agents.base_agent - ERROR - Error in agent Operations_Agent1 main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 17:21:38,126 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 17:21:38,128 - agents.base_agent - INFO - Agent Manager_Agent started in channel Management
+2024-11-05 17:21:38,128 - agents.base_agent - ERROR - Error in agent Manager_Agent main loop: partially initialized module 'anyio._backends._asyncio' has no attribute 'CancelScope' (most likely due to a circular import)
+2024-11-05 17:21:38,139 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 17:21:38,140 - agents.base_agent - INFO - Agent HR_Agent started in channel HR
+2024-11-05 17:21:38,144 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:38,154 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:38,154 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:38,948 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:39,268 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:39,385 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:41,098 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:41,133 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:41,420 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:41,530 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:41,592 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:41,617 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:43,152 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:43,214 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:43,808 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:43,845 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:43,962 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:43,962 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:46,242 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:46,347 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:46,449 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:46,751 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:47,446 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:49,147 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:49,280 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:49,280 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:49,380 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:49,587 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:49,796 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:51,400 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:51,491 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:51,556 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:51,849 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:52,649 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:52,650 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:21:52,651 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 17:21:53,692 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:53,834 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:54,009 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:54,501 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:54,555 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:55,886 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:56,613 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:56,694 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:56,913 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:57,050 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:57,594 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:57,857 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:57,903 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:58,687 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:58,874 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:59,556 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:59,742 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:21:59,919 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:00,089 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:00,399 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:00,608 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:01,121 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:01,167 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:02,043 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:02,831 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:03,181 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:03,269 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:03,304 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:03,337 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:03,380 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:03,413 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:05,622 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:05,819 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:05,865 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:06,080 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:06,120 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:06,222 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:06,358 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:07,946 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:08,205 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:08,409 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:08,581 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:08,682 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:08,762 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:09,124 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:11,238 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:11,238 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 17:22:11,473 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:11,474 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:11,753 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:12,097 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:12,165 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:12,667 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:14,300 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:14,684 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:15,000 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:15,374 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:15,792 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:15,896 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:16,382 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:16,978 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:17,856 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:18,201 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:18,202 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:21,850 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 17:22:21,856 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 17:22:21,858 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 17:22:21,864 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 17:22:21,870 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:21,871 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:21,874 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:21,879 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:22,366 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:22,897 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:23,034 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:23,255 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:24,579 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:24,612 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:25,053 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:25,146 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:25,228 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:25,257 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:25,434 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:25,464 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:27,316 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:27,705 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:27,770 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:27,817 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:27,892 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:28,047 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:28,047 - agents.base_agent - ERROR - Error in agent python_agent main loop: BaseAgent.list_employees() got an unexpected keyword argument 'parameter1'
+2024-11-05 17:22:28,240 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:29,927 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:30,035 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:30,645 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:30,760 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:31,016 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:31,017 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:22:31,017 - agents.base_agent - ERROR - Error in agent Operations_Agent main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 17:22:32,879 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:32,994 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:33,343 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:33,366 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:33,386 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:33,429 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:35,102 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:35,158 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:35,433 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:35,584 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:35,638 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:36,101 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:36,765 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:36,823 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:37,279 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:37,326 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:37,701 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:38,306 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:38,723 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:38,967 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:39,087 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:40,979 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:40,992 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:41,326 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:41,511 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:42,405 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:42,942 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:43,016 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:43,482 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:45,161 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:45,513 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:45,513 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:45,766 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:45,901 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:48,098 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:48,271 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:48,272 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:22:48,455 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:49,226 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:49,757 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:49,982 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:50,300 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:50,526 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:51,562 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:51,682 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:52,646 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:53,040 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:53,489 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:53,576 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:53,577 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:22:53,614 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:54,061 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:55,335 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:55,530 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:55,633 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:56,173 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:58,302 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:59,121 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:22:59,670 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:00,005 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:03,128 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:03,523 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:03,673 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:04,125 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:04,720 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:04,720 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:23:05,308 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:05,996 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:06,595 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:07,125 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:08,260 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:08,261 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:23:09,267 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:11,053 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:12,111 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:12,395 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:12,396 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:23:13,843 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:17,334 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:17,335 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:23:17,592 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:18,741 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:19,173 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:21,699 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:23,687 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:23,687 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:23:25,376 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:25,377 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:26,892 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:31,633 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:31,633 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:23:33,660 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:35,737 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:37,569 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:37,771 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:37,771 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:23:41,148 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:42,558 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:23:43,774 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:08,917 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 17:31:08,917 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 17:31:08,922 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 17:31:08,926 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 17:31:10,862 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:10,891 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:10,919 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:11,472 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:11,515 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:11,767 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:11,767 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:31:11,767 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 17:31:12,042 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:14,173 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:14,637 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:14,883 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:15,109 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:15,109 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:31:15,109 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:31:15,653 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:15,830 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:17,567 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:18,062 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:19,530 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:19,530 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 17:31:20,002 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:20,003 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:31:20,003 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:31:20,177 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:20,178 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:31:20,178 - agents.base_agent - ERROR - Error in agent Operations_Agent main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 17:31:21,216 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:22,097 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:22,337 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:24,621 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:28,415 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:29,040 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:29,234 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:29,235 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 17:31:29,987 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:30,134 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:33,105 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:33,140 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:34,592 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:36,702 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:39,722 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:39,798 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:39,887 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:39,888 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 17:31:39,922 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:39,923 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 17:31:39,923 - agents.base_agent - ERROR - Error in agent Operations_Agent main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 17:31:41,415 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:43,921 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:43,973 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:45,626 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:46,965 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:50,692 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:50,715 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:50,716 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 17:31:51,381 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:54,193 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:55,798 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:57,464 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:59,205 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:59,205 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:31:59,206 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 17:32:02,304 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:32:04,181 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:32:04,510 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:32:07,873 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:32:07,873 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 17:32:09,515 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:32:11,189 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:32:13,116 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 17:32:13,151 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:09,519 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 18:42:09,524 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 18:42:09,528 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 18:42:09,535 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 18:42:11,220 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:11,234 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:11,750 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:11,966 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:11,967 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:42:11,967 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:42:12,019 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:12,019 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:42:12,020 - agents.base_agent - ERROR - Error in agent Operations_Agent main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 18:42:12,351 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:14,663 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:14,664 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:42:14,665 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:42:14,728 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:15,064 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:15,177 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:19,029 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:19,071 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:19,248 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:19,612 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:20,013 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:20,469 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:20,554 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:20,554 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:42:20,555 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:42:21,999 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:22,456 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:23,172 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:24,038 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:24,114 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:24,642 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:25,445 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:26,126 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:27,441 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:28,689 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:34,306 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 18:42:34,326 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 18:42:34,328 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 18:42:34,330 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 18:42:35,662 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:35,725 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:35,756 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:35,889 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:35,889 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:36,293 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:36,435 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:36,693 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:38,333 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:38,861 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:39,085 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:39,616 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:39,616 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:42:39,745 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:40,165 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:40,165 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:42:40,165 - agents.base_agent - ERROR - Error reading employee data: Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:42:41,525 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:41,637 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:42,625 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:42,772 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:42,772 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:43,216 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:43,216 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:42:44,352 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:44,750 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:45,716 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:47,253 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:47,301 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:47,946 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:48,983 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:48,984 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:42:49,699 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:49,699 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:42:49,874 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:50,512 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:51,927 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:52,117 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:53,736 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:53,848 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:54,061 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:54,061 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:42:55,917 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:55,918 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:42:56,045 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:57,485 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:59,269 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:42:59,350 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:01,687 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:01,963 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:01,964 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:01,982 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:04,589 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:04,589 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:04,708 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:07,640 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:07,640 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:08,684 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:10,275 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:10,550 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:10,550 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:12,028 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:13,584 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:13,585 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:15,294 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:18,324 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:18,445 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:20,062 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:21,327 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:21,637 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:21,638 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:23,323 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:24,863 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:24,864 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:28,080 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:28,183 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:30,353 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:31,461 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:33,099 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:33,099 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:34,635 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:36,243 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:37,738 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:37,739 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:39,381 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:42,750 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:42,872 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:45,007 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:46,181 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:46,182 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:47,861 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:49,333 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:50,837 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:50,838 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:43:52,407 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:52,562 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:43:54,285 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:23,036 - agents.base_agent - INFO - Message sent to Tech: Operations_Agent is online.
+2024-11-05 18:44:23,037 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 18:44:23,042 - agents.base_agent - INFO - Message sent to Tech: python_agent is online.
+2024-11-05 18:44:23,042 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 18:44:23,043 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:23,043 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 18:44:23,044 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:23,045 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 18:44:24,702 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:24,735 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:24,751 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:24,767 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:25,657 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:25,657 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:26,014 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:26,014 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:26,135 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:26,136 - agents.base_agent - INFO - Message sent to Tech:  The available tools seem to include HR, Management, and General channels which are used for employees related functionalities. There is no direct option specified for sending messages or viewing message history in these tools. If you can provide more details about what you need help with, I might be able to assist further.
+2024-11-05 18:44:26,639 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:26,640 - agents.base_agent - INFO - Message sent to Tech:  The requested tools include HR, Management, General, list_employees, send_message, view_channel_history, and broadcast_message. If you are looking for a tool that generates reports or logs activity, I suggest using the management tools 'Management' or 'General'. 
+
+Here's an example of how to use the 'list_employees' function in the HR tools:
+
+1. Run this command: `HR['list_employees']()`
+2024-11-05 18:44:28,077 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:28,483 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:28,483 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:29,345 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:29,431 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:29,644 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:29,644 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:29,897 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:29,897 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:29,963 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:29,964 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:44:29,964 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:44:30,297 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:30,298 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:31,155 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:31,557 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:31,557 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:31,984 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:32,639 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:32,640 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:32,654 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:33,609 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:33,609 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:34,709 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:35,756 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:35,756 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:35,776 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:35,776 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:44:35,776 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:44:35,841 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:37,181 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:38,044 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:38,045 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:38,244 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:38,245 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:38,968 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:38,968 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:39,356 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:40,315 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:40,316 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:42,408 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:43,666 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:44,676 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:44,677 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:47,252 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:47,252 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:44:47,274 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:47,362 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:50,108 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:50,108 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:44:50,230 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:50,442 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:44:50,443 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:04,093 - agents.base_agent - INFO - Message sent to Tech: Operations_Agent is online.
+2024-11-05 18:45:04,094 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 18:45:04,098 - agents.base_agent - INFO - Message sent to Tech: python_agent is online.
+2024-11-05 18:45:04,098 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:04,099 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 18:45:04,099 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 18:45:04,110 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:04,111 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 18:45:05,717 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:05,748 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:05,931 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:05,931 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:06,407 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:06,408 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:45:06,408 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:45:06,750 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:06,750 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:45:06,750 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:45:06,913 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:06,913 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:08,362 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:08,877 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:08,877 - agents.base_agent - INFO - Message sent to Tech:  Please provide additional information or specify a tool you would like to know about.
+2024-11-05 18:45:09,931 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:09,932 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:45:09,932 - agents.base_agent - ERROR - Error reading employee data: JSON decode error - Expecting value: line 1 column 1 (char 0)
+2024-11-05 18:45:10,536 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:10,536 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:11,693 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:12,251 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:12,251 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:12,696 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:13,706 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:13,707 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:14,412 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:15,808 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:15,928 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:15,929 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:17,054 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:17,054 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:17,236 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:17,921 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:17,922 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:20,819 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:22,787 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:23,492 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:23,492 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:23,593 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:24,583 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:24,583 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:25,469 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:25,469 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:27,429 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:29,083 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:29,119 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:29,120 - agents.base_agent - INFO - Message sent to Tech:  The query has been updated to: "Provide a list of available commands for HR, Management and General departments using their respective methods."
+
+Here's how you can use the tool to find out the available commands:
+
+1. For HR department: You can use 'HR' as your first word in any command like 'list_employees', 'add_employee', 'remove_employee', etc., and it will provide you with a list of available commands. For example, 'list_employees': <bound method BaseAgent.list_employees of <agents.base_agent.BaseAgent object at 0x000001903A3F6A80>>, 'add_employee': <bound method BaseAgent.add_employee of <agents.base_agent.BaseAgent object at 0x000001903A3F6A80>>, etc.
+
+2. For Management department: Similarly, use 'Management' as your first word for any command like 'list_employees', 'generate_report', 'log_activity', 'broadcast_message', 'view_department_stats', etc., and it will provide you with a list of available commands. For example, 'list_employees': <bound method BaseAgent.list_employees of <agents.base_agent.BaseAgent object at 0x000001903A3F6A80>>, 'generate_report': <bound method BaseAgent.generate_report of <agents.base_agent.BaseAgent object at 0x000001903A3F6A80>>, etc.
+
+3. For General department: Use 'General' as your first word for any command like 'list_employees', 'log_activity', 'send_message', 'change_channel', 'view_channel_history', etc., and it will provide you with a list of available commands. For example, 'list_employees': <bound method BaseAgent.list_employees of <agents.base_agent.BaseAgent object at 0x000001903A3F6A80>>, 'log_activity': <bound method BaseAgent.log_activity of <agents.base_agent.BaseAgent object at 0x000001903A3F6A80>>, etc.
+
+Remember to replace the specific department name with its corresponding abbreviation like 'HR', 'Management', or 'General'.
+2024-11-05 18:45:30,370 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:30,371 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:31,762 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:31,762 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:32,662 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:34,467 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:34,468 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:34,624 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:34,694 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:36,439 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:37,963 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:37,964 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:38,241 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:38,242 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:40,482 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:40,483 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:40,518 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:41,138 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:41,138 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:42,866 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:44,901 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:47,797 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:47,797 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:47,908 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:47,979 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:49,580 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:49,581 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:50,359 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:50,360 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:53,140 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:53,140 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:45:53,264 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:56,550 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:56,568 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:56,669 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:56,669 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:45:59,319 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:45:59,320 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:01,194 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:01,195 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:02,959 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:04,532 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:04,621 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:06,349 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:06,350 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:08,839 - agents.base_agent - INFO - Initialized employee data file with default structure.
+2024-11-05 18:46:08,840 - agents.base_agent - INFO - Initialized employee data file with default structure.
+2024-11-05 18:46:08,840 - agents.base_agent - INFO - Initialized employee data file with default structure.
+2024-11-05 18:46:08,841 - agents.base_agent - INFO - Initialized employee data file with default structure.
+2024-11-05 18:46:09,333 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:09,333 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 18:46:09,338 - agents.base_agent - INFO - Message sent to Tech: Operations_Agent is online.
+2024-11-05 18:46:09,339 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 18:46:09,342 - agents.base_agent - INFO - Message sent to Tech: python_agent is online.
+2024-11-05 18:46:09,342 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 18:46:09,349 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:09,349 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 18:46:10,804 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:10,830 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:11,572 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:11,573 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:12,040 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:12,040 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:12,040 - agents.base_agent - INFO - Message sent to Tech:  The tool's name is missing and there are no specific requirements or inputs for it to work effectively. Please provide a detailed description of what you need help with.
+2024-11-05 18:46:12,044 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:46:14,735 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:15,056 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:15,057 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:15,182 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:15,661 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:15,661 - agents.base_agent - ERROR - Error in agent python_agent main loop: BaseAgent.send_message() got an unexpected keyword argument 'to_channel'
+2024-11-05 18:46:16,787 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:16,788 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:17,880 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:18,380 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:18,380 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:18,708 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:18,708 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:46:19,937 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:21,269 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:22,188 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:22,189 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:22,384 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:22,384 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:24,963 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:24,964 - agents.base_agent - ERROR - Error in agent python_agent main loop: BaseAgent.send_message() got an unexpected keyword argument 'to_channel'
+2024-11-05 18:46:27,304 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:28,539 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:28,540 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:28,764 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:28,765 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 18:46:28,933 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:29,854 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:29,854 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:32,729 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:35,676 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:35,677 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:36,585 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:36,701 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:36,702 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:46:37,994 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:37,994 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:39,942 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:41,892 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:41,893 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:43,727 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:46,910 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:46,910 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:46:47,020 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:47,089 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:47,177 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:47,177 - agents.base_agent - INFO - Message sent to Tech: <tool_response>
+Unauthorized tool usage.
+
+</tool_response>
+2024-11-05 18:46:48,618 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:48,618 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:46:50,224 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:50,225 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:46:57,578 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:57,778 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:58,059 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:58,060 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:46:59,910 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:46:59,911 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:47:01,925 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:01,926 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:47:02,316 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:02,440 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:06,854 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:06,854 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:47:08,999 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:09,000 - agents.base_agent - INFO - Message sent to Tech: <tool_call>[
+{"name": "broadcast_message", "arguments": {"content":"{'type': 'info', 'details': {'message': 'Hello, team!'}}"}}
+]</tool_call>
+2024-11-05 18:47:09,140 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:09,143 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:47:11,067 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:11,245 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:12,815 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:12,816 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:47:14,527 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:47:14,528 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:48:35,176 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:48:35,176 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 18:48:35,185 - agents.base_agent - INFO - Message sent to Tech: Operations_Agent is online.
+2024-11-05 18:48:35,185 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 18:48:35,186 - agents.base_agent - INFO - Message sent to Tech: python_agent is online.
+2024-11-05 18:48:35,186 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 18:48:35,189 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:48:35,189 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 18:48:37,010 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:37,025 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:37,057 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:37,735 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:37,736 - agents.base_agent - INFO - Message sent to Tech:  Please provide more context or specify what you are looking for.
+2024-11-05 18:48:38,168 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:38,169 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:48:38,468 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:38,468 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:48:38,523 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:38,524 - agents.base_agent - INFO - Message sent to Tech:  The list you have is a dictionary that contains all the possible actions for different subcommands of an agent in a chatbot system, and it does not include the specific functions that are being asked about. If you need assistance related to one of those functions or any other topic, please provide more details.
+2024-11-05 18:48:40,292 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:40,466 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:40,467 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:48:41,421 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:41,505 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:41,674 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:41,675 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:48:41,836 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:41,836 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:48:43,044 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:43,464 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:43,465 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:48:45,329 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:46,580 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:46,581 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:46,581 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 18:48:46,599 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:47,491 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:47,492 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:48:48,364 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:48,381 - agents.base_agent - INFO - Message sent to Tech:  
+
+I recommend checking your database and logs to identify what specific information you are looking for in the 'list_employees', 'send_message', 'view_channel_history' functions, as these actions are not directly related to HR or Management functionality but rather General Agent features.
+2024-11-05 18:48:48,755 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:48,756 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:48:50,980 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:51,693 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:54,303 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:54,303 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:48:54,566 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:54,566 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:48:55,019 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:55,019 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 18:48:55,168 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:55,895 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:55,895 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:48:57,867 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:48:58,930 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:01,159 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:01,160 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:01,531 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:01,532 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:02,317 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:02,386 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:02,387 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:49:03,327 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:03,328 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:49:04,976 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:06,462 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:09,484 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:09,484 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:09,836 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:09,836 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:10,554 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:12,052 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:12,053 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:49:12,396 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:12,397 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.update_employee() missing 2 required positional arguments: 'name' and 'department'
+2024-11-05 18:49:15,537 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:15,573 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:17,581 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:17,581 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:19,229 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:19,229 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:20,963 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:22,850 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:22,850 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:22,852 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:49:24,352 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:24,353 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:49:25,713 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:27,164 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:27,165 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:30,170 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:30,171 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:34,015 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:34,106 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:35,634 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:35,634 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:49:35,653 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:37,304 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:37,305 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:38,773 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:38,773 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:49:40,247 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:40,247 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:41,709 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:47,022 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:47,022 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:47,090 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:47,090 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:49:48,518 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:48,760 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:50,213 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:50,214 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:53,062 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:53,063 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:49:53,167 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:56,723 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:58,282 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:58,282 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:49:58,384 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:49:58,385 - agents.base_agent - ERROR - Error in agent HR_Agent main loop: BaseAgent.add_employee() missing 3 required positional arguments: 'name', 'department', and 'position'
+2024-11-05 18:50:01,561 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:01,561 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:03,290 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:03,326 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:04,893 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:04,894 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:06,688 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:06,688 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:11,752 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:11,753 - agents.base_agent - INFO - Agent HR_Agent started in channel Tech
+2024-11-05 18:50:11,758 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:11,758 - agents.base_agent - INFO - Message sent to Tech: Operations_Agent is online.
+2024-11-05 18:50:11,758 - agents.base_agent - INFO - Agent Manager_Agent started in channel Tech
+2024-11-05 18:50:11,759 - agents.base_agent - INFO - Agent Operations_Agent started in channel Tech
+2024-11-05 18:50:11,770 - agents.base_agent - INFO - Message sent to Tech: python_agent is online.
+2024-11-05 18:50:11,771 - agents.base_agent - INFO - Agent python_agent started in channel Tech
+2024-11-05 18:50:13,297 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:13,376 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:13,829 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:13,830 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:14,205 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:14,586 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:14,586 - agents.base_agent - ERROR - Error in agent python_agent main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 18:50:14,794 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:14,794 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:16,182 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:16,182 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:16,298 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:16,547 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:16,548 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:17,369 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:19,153 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:19,694 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:19,694 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:20,204 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:21,699 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:21,700 - agents.base_agent - ERROR - Error in agent python_agent main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 18:50:21,839 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:21,840 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:22,770 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:23,658 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:23,658 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:25,002 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:25,003 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:25,214 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:25,909 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:25,910 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:26,316 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:26,581 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:26,581 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:28,500 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:30,383 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:30,383 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:32,435 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:32,596 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:33,790 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:33,929 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:36,197 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:36,197 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:37,165 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:37,166 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:38,301 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:38,302 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:38,548 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:38,549 - agents.base_agent - INFO - Message sent to Tech: <tool_call>[{"name": "view_channel_history", "arguments": {"channel": "Tech"}}]</tool_call>
+2024-11-05 18:50:40,112 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:41,588 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:46,279 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:46,280 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:47,311 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:47,312 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:48,234 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:48,270 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:49,522 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:49,523 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:53,460 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:53,532 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:56,863 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:56,863 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:50:56,887 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:56,887 - agents.base_agent - INFO - Message sent to Tech: <tool_call>[
+{"name": "generate_report", "arguments": {"report_type": "Employee"}},
+{"name": "view_channel_history", "arguments": {}}]</tool_call>
+2024-11-05 18:50:58,586 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:50:58,586 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:50:58,934 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:02,167 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:03,659 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:03,659 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:07,203 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:07,203 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:07,226 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:07,226 - agents.base_agent - ERROR - Error in agent python_agent main loop: BaseAgent.send_message() missing 2 required positional arguments: 'target_channel' and 'content'
+2024-11-05 18:51:07,245 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:09,144 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:09,144 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:51:11,258 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:11,399 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:13,378 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:14,936 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:14,937 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:18,383 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:18,383 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:20,166 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:20,167 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:51:20,559 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:22,533 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:22,534 - agents.base_agent - ERROR - Error in agent python_agent main loop: BaseAgent.view_channel_history() got an unexpected keyword argument 'channel'
+2024-11-05 18:51:24,105 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:24,106 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:26,355 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:28,460 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:28,479 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:30,118 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:30,119 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:51:34,181 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:34,182 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:35,722 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:35,723 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:37,527 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:37,582 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:41,406 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:41,407 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:51:43,059 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:43,059 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:51:44,767 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:44,857 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:48,949 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:48,949 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:52,077 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:52,078 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:51:52,218 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:52,255 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:55,773 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:55,774 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:51:57,401 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:57,401 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:51:59,353 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:51:59,354 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:04,746 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:04,746 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:06,369 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:06,369 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:06,417 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:06,489 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:08,268 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:08,269 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:52:09,831 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:09,832 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:52:11,679 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:18,453 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:18,454 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:18,624 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:18,791 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:18,969 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:20,543 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:20,543 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:52:22,266 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:22,266 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:23,990 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:23,991 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:52:25,796 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:27,619 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:29,517 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:29,518 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:32,683 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:32,683 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:52:32,895 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:34,861 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:35,039 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:36,710 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:36,710 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:36,934 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:38,686 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:38,686 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:40,449 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:40,449 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:52:42,233 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:42,233 - agents.base_agent - ERROR - send_message called with missing parameters.
+2024-11-05 18:52:47,305 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:49,287 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:49,336 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:51,017 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:51,018 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:51,304 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:53,007 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:53,008 - agents.base_agent - ERROR - Access Denied: You do not have permission to send messages.
+2024-11-05 18:52:54,742 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-05 18:52:54,742 - agents.base_agent - ERROR - send_message called with missing parameters.

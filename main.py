@@ -15,10 +15,10 @@ def start_agent(name, role, channel):
 if __name__ == "__main__":
     # Define company structure
     agents = [
-        ("HR_Agent", "HR", "HR"),
-        ("Manager_Agent", "Management", "Management"),
-        ("Operations_Agent1", "General", "General"),
-        ("Operations_Agent2", "General", "Tech"),
+        ("HR_Agent", "HR", "Tech"),
+        ("Manager_Agent", "Management", "Tech"),
+        ("python_agent", "General", "Tech"),
+        ("Operations_Agent", "General", "Tech"),
     ]
 
     # Start agents in separate threads

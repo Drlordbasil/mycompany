@@ -80,7 +80,7 @@ class BaseAgent:
 
     def _ensure_employee_file_exists(self) -> None:
         """Ensure the employee data file exists with proper structure."""
-        if not self.employee_file_path.exists():
+        if not self.employee_file_path.exists() or self.employee_file_path.stat().st_size == 0:
             self.employee_file_path.parent.mkdir(parents=True, exist_ok=True)
             initial_data = {
                 "HR": [],
@@ -90,6 +90,7 @@ class BaseAgent:
             }
             with open(self.employee_file_path, 'w') as f:
                 json.dump(initial_data, f, indent=2)
+            logger.info("Initialized employee data file with default structure.")
 
     def _get_tools_for_role(self, role: str) -> Dict[str, callable]:
         """Get available tools for the agent's role with error handling."""
@@ -110,6 +111,9 @@ class BaseAgent:
             async with asyncio.Lock():
                 with open(self.employee_file_path, 'r') as file:
                     return json.load(file)
+        except json.JSONDecodeError as e:
+            logger.error(f"Error reading employee data: JSON decode error - {str(e)}")
+            return {}
         except Exception as e:
             logger.error(f"Error reading employee data: {str(e)}")
             return {}
@@ -141,15 +145,15 @@ class BaseAgent:
             return "Access Denied: You do not have permission to add employees."
         
         if not all([name, department, position]):
-            return "Error: All fields (name, department, position) are required."
+            return "Error: All fields (name, department, position) are required. Please provide the employee's name, department, and position."
         
         employees = await self._read_employee_data()
         if department not in employees:
-            return f"Error: Invalid department '{department}'"
+            return f"Error: Invalid department '{department}'. Please ensure the department exists."
         
         # Check for duplicate employees
         if any(emp["name"] == name for emp in employees[department]):
-            return f"Error: Employee '{name}' already exists in {department}"
+            return f"Error: Employee '{name}' already exists in {department}. Please provide a different name."
         
         employees[department].append({
             "name": name,
@@ -160,7 +164,7 @@ class BaseAgent:
         if await self._write_employee_data(employees):
             await self.log_activity(f"Added employee {name} to {department} as {position}")
             return f"Successfully added employee {name} to {department} as {position}."
-        return "Error: Failed to add employee"
+        return "Error: Failed to add employee. Please try again."
 
     async def update_employee(self, name: str, department: str, new_position: Optional[str] = None) -> str:
         """Update employee information."""
@@ -217,14 +221,20 @@ class BaseAgent:
     async def send_message(self, target_channel: str, content: str) -> None:
         """Send a message with rate limiting and duplicate prevention."""
         if 'send_message' not in self.tools:
+            logger.error("Access Denied: You do not have permission to send messages.")
             return "Access Denied: You do not have permission to send messages."
+        
+        if not target_channel or not content:
+            logger.error("send_message called with missing parameters.")
+            return "Error: Both target_channel and content are required. Please specify the channel and the message content."
         
         current_time = datetime.now()
         
         # Check message cooldown
         if (self.last_message['timestamp'] and 
             (current_time - self.last_message['timestamp']).total_seconds() < self.message_cooldown):
-            return
+            logger.info("Message cooldown in effect; message not sent.")
+            return "Error: Message cooldown in effect; please wait before sending another message."
         
         # Avoid duplicate messages
         if content != self.last_message['content']:
@@ -234,6 +244,10 @@ class BaseAgent:
                 'content': content,
                 'timestamp': current_time
             }
+            logger.info(f"Message sent to {target_channel}: {content}")
+        else:
+            logger.info("Duplicate message detected; message not sent.")
+            return "Error: Duplicate message detected; please modify your message and try again."
 
     async def run(self, model: str) -> None:
         """Run the agent with enhanced error handling and monitoring."""
@@ -249,6 +263,10 @@ class BaseAgent:
             
             while True:
                 try:
+                    self.messages.append({
+                        'role': 'user',
+                        'content': f"Tools: ###{self.TOOLSETS} {self.tools}####"
+                    })                       
                     response = await client.chat(
                         model=model,
                         messages=self.messages,
@@ -263,7 +281,7 @@ class BaseAgent:
                     )
                     
                     self.messages.append(response['message'])
-
+                    
                     if response['message'].get('tool_calls'):
                         for tool in response['message']['tool_calls']:
                             func_name = tool['function']['name']
@@ -273,12 +291,13 @@ class BaseAgent:
                                 function_response = await self.tools[func_name](**args)
                             else:
                                 function_response = "Unauthorized tool usage."
-                            
+                       
                             self.messages.append({
                                 'role': 'tool',
                                 'content': function_response
                             })
-
+                            
+                    
                     final_response = await client.chat(model=model, messages=self.messages)
                     await self.send_message(self.channel, final_response['message']['content'])
                     
